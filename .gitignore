@@ -1,0 +1,32 @@
+# Compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyCharm, Visual Studio Code, and other editors
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+
+# Environment files
+.env
+*venv/
